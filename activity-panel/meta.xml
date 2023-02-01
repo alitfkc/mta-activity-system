@@ -1,0 +1,18 @@
+<meta>
+	<info author="Meta Scripts" type="script" name="[Ataturk-ActivityPanel]" version="1.0" />
+	<!-- Settings -->
+	<script src="settings/settings.lua" type="shared" />
+	<script src="settings/notification_s.lua" type="server" />
+	<script src="settings/notification_c.lua" type="client" />
+
+	<!-- Utils  -->
+	<script src="utils/util_c.lua" type="client" />
+	<script src="utils/util_s.lua" type="server" />
+
+
+	<!-- Libs  -->
+	<script src="pannel/lib.lua" type="client" />
+	<!-- Gui  -->
+	<script src="pannel/gui.lua" type="client" />
+
+</meta>
